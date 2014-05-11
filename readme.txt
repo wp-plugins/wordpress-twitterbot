@@ -10,15 +10,18 @@ Post your Wordpress blog updates to your Twitter account
 
 == Description ==
 
-Wordpress Twitterbot is a tool for updating your Twitter account with your Wordpress posts.
+ATTENTION...This plugin is currently taken over...and not working in the moment.
 
-It will post a tweet when you have created a new post on your Wordpress blog and when you have updated a post. It can be turned on and off on a per-post basis.
+WordPress Twitterbot is a tool for updating your Twitter account with your WordPress posts or random Tweets you define in a list.
+
+It will post a tweet when you have created a new post on your WordPress blog. You also can post random tweets from a predefined list.
 
 == Installation ==
 
-1. Upload `twitterbot.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Update your Twitter username and password to enable Twitterbot to post your tweets
+1. Upload `wordpress-twitterbot` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Register a Twitter App on https://dev.twitter.com/apps/
+4. Update your Twitter credentials to enable Twitterbot to post your tweets under Tools -> WordPress TwitterBot
 
 == Frequently Asked Questions ==
 
