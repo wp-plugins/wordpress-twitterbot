@@ -1,9 +1,9 @@
 === Wordpress Twitter Bot ===
-Contributors: Chris Charlton
+Contributors: Chris Charlton, theode
 Author Homepage: http://newwebmasters.net/
 Tags: twitter,post,integrate
-Requires at least: 2.7
-Tested up to: 2.7.1
+Requires at least: 3.0
+Tested up to: 3.9
 Stable tag: 1.0
 
 Post your Wordpress blog updates to your Twitter account
