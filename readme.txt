@@ -1,7 +1,8 @@
 === Wordpress Twitter Bot ===
-Contributors: Chris Charlton, theode
-Author Homepage: http://newwebmasters.net/
-Tags: twitter,post,integrate
+Contributors:  theode, Chris Charlton
+Donate link: http://www.wp-plugin-dev.com/donate
+Author Homepage: http://www.wp-plugin-dev.com
+Tags: twitter, post, integrate
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 1.11
