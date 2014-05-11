@@ -1,8 +1,9 @@
 <?php /*
-Plugin Name: Marketing Twitter Bot
-Version: 0.4
+Plugin Name: WordPress Twitter Bot
+Version: 1.1
 Description: A plugin to have automatic Twitter on WordPress
 Author: wp-plugin-dev
+Author URI: http://www.wp-plugin-dev.com
 */
 
 
