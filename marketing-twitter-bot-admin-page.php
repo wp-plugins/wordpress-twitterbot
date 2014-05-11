@@ -42,26 +42,7 @@ $mtb_views=(int) get_option("mtb_views", true);
 		<tr><td>Access Token:</td><td><input class="regular-text" name="twitter_mtb_access_token"  type="password" size="500" value="<?php echo $mtb_at; ?>" /></td></tr>
 		<tr><td>Access Token Secret:</td><td><input class="regular-text" name="twitter_mtb_access_token_secret" type="password" size="500" value="<?php echo $mtb_ats; ?>" /></td></tr>
 		</table>
-		<hr>
-		<h3>Here you can make a list of Random Tweets</h3>
-				<i><b>Intervals:</b></i><br />
-		
-		Tweet every		<select name="mtb_interval">
-		<?php
-		$i=0; 
-		while ($i<1000){
-		echo "<option name=\"".$i."\"";
-		if($mtb_i==$i){
-		echo " selected ";
-		}else{}
-		
-		echo ">".$i."</option>";
-		$i++;
-		} ?>
-		</select> requests.<?php echo "(".$mtb_views." requests in total)"; ?>
-		<hr>
 
-		<textarea name="tweetlist" cols="100" style="height:400px;"><?php echo $mtb_tweetlist; ?></textarea><br />
 		<input type="hidden" name="mtb" value="true" />
 		<input type="submit" />
 		</form>

@@ -4,16 +4,16 @@ Author Homepage: http://newwebmasters.net/
 Tags: twitter,post,integrate
 Requires at least: 3.0
 Tested up to: 3.9
-Stable tag: 1.1
+Stable tag: 1.11
 
 Post your Wordpress blog updates to your Twitter account
 
 == Description ==
 
 
-WordPress Twitterbot is a tool for updating your Twitter account with your WordPress posts or random Tweets you define in a list.
+WordPress Twitterbot is a tool for updating your Twitter account with your WordPress posts.
 
-It will post a tweet when you have created a new post on your WordPress blog. You also can post random tweets from a predefined list.
+It will post a tweet when you have created a new post on your WordPress blog. Y
 
 == Installation ==
 
