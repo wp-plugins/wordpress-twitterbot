@@ -1,5 +1,5 @@
 === Wordpress Twitter Bot ===
-Contributors:  theode, Chris Charlton
+Contributors:  theode, corbyboy
 Donate link: http://www.wp-plugin-dev.com/donate
 Author Homepage: http://www.wp-plugin-dev.com
 Tags: twitter, post, integrate
@@ -12,9 +12,11 @@ Post your WordPress blog updates to your Twitter account
 == Description ==
 
 
-WordPress Twitterbot is a tool for updating your Twitter account with your WordPress posts.
+WordPress Twitter Bot is a tool for updating your Twitter account with your WordPress posts.
 
 It will post a tweet when you have created a new post on your WordPress blog.
+
+Many thanks go out to Abraham and Chris Charlton.
 
 == Installation ==
 
@@ -27,16 +29,24 @@ It will post a tweet when you have created a new post on your WordPress blog.
 
 = Why choose Twitterbot over other Wordpress Twitter plugins?
 
-There are lots of Twitter plugins for Wordpress available but I found them too all be bloated and too fully-featured. If you want a simple plugin with a few simple configuration options, Twitterbot is the plugin for you.
+We have very much experience and we love simplicity.
+Our plugin can be directly registered as App on Twitter.com.
+You have a benefit in future updates
 
 = What are the requirements to install this plugin?
 
-It is only tested with the 2.7.x versions of Wordpress. If you don't use this, you should definitely think about upgrading. It also requires cURL to be enabled on your PHP installation
-
-= Can I customise the "New Post" and "Updated Post" prefix text?
-
-Yes, you can change it in the options section
+Try to have the most recent WordPress and you need a liboauth-php on your webserver.
 
 = How can I disable a tweet for a particular post?
 
-When creating a new post, there is a checkbox further down the page. You can turn off a tweet for the current post here
+In the moment we don't have such an option. Stay tuned for the next version.
+
+== Changelog ==
+
+= 1.11 = final release for now
+= 1.1 = Takeover by wp-plugin-dev.com
+= 1.00 =  Initial release
+
+== Upgrade notice ==
+
+We are working hard on new Versions in the future.
