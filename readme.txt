@@ -4,7 +4,7 @@ Donate link: http://www.wp-plugin-dev.com/donate
 Author Homepage: http://www.wp-plugin-dev.com
 Tags: twitter, post, integrate
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.2
 Stable tag: 1.11
 
 Post your WordPress blog updates to your Twitter account
